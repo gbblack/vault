@@ -1,5 +1,6 @@
 ---
 tags:
+  - lit-note
 source: https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/
 links:
   - "[[SQL]]"

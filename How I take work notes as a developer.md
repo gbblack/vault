@@ -1,6 +1,6 @@
 ---
 tags:
-  - tipsntricks
+  - lit-note
 source: https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/
 links:
 ---

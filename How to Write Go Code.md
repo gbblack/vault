@@ -1,6 +1,6 @@
 ---
 tags:
-DECIMAL: 41.25 Go
+  - lit-note
 source: https://go.dev/doc/code
 links:
   - "[[Go]]"
