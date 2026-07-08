@@ -1,5 +1,24 @@
 Idea from: [consumed.today](https://consumed.today/)
 
+2026-07-08
+- [Moby Dick Workout](https://www.hogbaysoftware.com/posts/moby-dick-workout/) -> [[Moby Dick Workout|Tips&Tricks]]
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
+- [people misunderstand the purpose of code review](https://mathstodon.xyz/@mjd/115096720350507897) -> [[people misunderstand the purpose of code review|Note]]
+- [Don’t build your castle in other people’s kingdoms](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
+- [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/) -> [[Feynman's Garden|Barnyard]]
+- [The Mind's A Field](https://www.marginalia.nu/log/05-minds-field/) -> [[The Mind's A Field|Barnyard]]
+
+2026-07-06
+- [Go Proverbs](https://go-proverbs.github.io/)
+- [What is the zero value, and why is it useful?](https://dave.cheney.net/2013/01/19/what-is-the-zero-value-and-why-is-it-useful)
+- [C++ Coding Style](https://jasonliang.js.org/cpp-style.html) -> [[C++ Coding Style|Note]]
+- [Was it really a Billion Dollar Mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
+- [Mitigating the Billion Dollar Mistake](https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/)
+- [Defining a Single Enumerant](https://caseymuratori.com/blog_0017) -> [[Defining a Single Enumerant|Note]]
+
+2026-07-04
+- [Zero Is Initialization (ZII)](https://freedium-mirror.cfd/https://medium.com/low-level/zero-is-initialization-zii-be3a7f1eec41)
+
 2026-07-01
 - [Open source game engine Godot will no longer accept AI-authored code contributions: 'We can't trust heavy users of AI to understand their code enough to fix it'](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 - [Stroustrup's Rule](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)

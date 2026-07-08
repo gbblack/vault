@@ -57,6 +57,9 @@ Links to projects or tools that interest me enough to learn
 | [Roomy](https://a.weird.one/)                                               | A federated(?) discord alternative                                                                                                 |
 | [direnv](https://direnv.net/)                                               | Tool to automatically load/unload `env` variables when you change directory                                                        |
 | [Software Internals Book Club](https://eatonphil.com/bookclub.html)         | A bookclub for software books                                                                                                      |
+| [Podman](https://podman.io/)                                                | Open source, daemon free Docker alternative                                                                                        |
+| [OpenSSH](https://www.openssh.org/)                                         | connectivity tool for SSH protocol                                                                                                 |
+
 ### Resources
 Links to learning materials on a given subject. Usually text but may also be links to further resources or materials that can be used in the learning.
 
@@ -167,6 +170,7 @@ Links to individual blogs
 | [LÆMEUR's Home Page @ SDF](https://laemeur.sdf.org/index.html)              | Personal site, cool design and minimalist design                                |
 | [Bob Doto](https://writing.bobdoto.computer/)                               | Personal Blog, Zettelkasten focus                                               |
 | [Bryan Cantrill](https://bcantrill.dtrace.org/)                             | Personal Blog, Founder of Oxide Computer Company                                |
+| [Marginalia](https://www.marginalia.nu/)                                    | Hypermedia focused personal site                                                |
 ### Vaults
 Links to public Obsidian vaults, digital gardens, Zettelkastens, second brains whatever you want to call it. In no particular order. These often defy description, incredibly personal, and mostly a clear experiment for the creator.
 
